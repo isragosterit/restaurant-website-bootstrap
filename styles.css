@@ -1,0 +1,148 @@
+.container-fluid {
+  padding: 0% 0%;
+}
+.navbar {
+  margin: 0px -12px;
+}
+.navbar.navbar-fixed-top {
+  width: 65% !important;
+  margin: 0px auto;
+  left: 0;
+  right: 0;
+  padding: 0;
+}
+body {
+  margin: 0;
+}
+.navbar-brand {
+  font-family: Barlow;
+  color: #660708 !important; /* #660708*/
+  font-size: 100%;
+  line-height: 1.5;
+  font-weight: bold;
+  margin-left: 25px;
+}
+.nav-item {
+  padding: 0 10px;
+}
+.buttons {
+  color: rgb(216, 213, 224);
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.navbar-nav li a {
+  color: #000000 !important;
+  font-family: Barlow;
+  font-size: 17px;
+}
+.dropdown-menu {
+  max-height: 300px;
+  overflow-y: auto;
+}
+.nav-item dropdown {
+  height: 10px;
+}
+.nav-item {
+  padding: 0px 18px;
+}
+.title {
+  font-size: 35px;
+  font-family: "Silkscreen";
+  text-align: center;
+  padding-top: 2%;
+  margin: 3% 0%;
+}
+img {
+  border: 0.5px solid rgb(0, 0, 0);
+}
+.container {
+  display: flex;
+  background-color: #8b4c4d;
+  margin: 1% 3%;
+}
+.flex-container > div {
+  background-color: pink;
+}
+.deneme {
+  padding-left: 50px;
+}
+.food-name {
+  color: #2a2c32;
+  font-family: "Barlow";
+  font-size: 20px;
+  line-height: 1.4;
+  margin: 5% 5%;
+  padding-top: 8px;
+}
+.row {
+  padding: 1% 11%;
+}
+#carouselExampleDark {
+  background-color: #000000;
+}
+.welcome {
+  font-family: barlow;
+  font-size: 170%;
+  color: white;
+  padding-bottom: 0%;
+}
+
+.slidetext {
+  font-family: barlow;
+  font-size: 350%;
+  color: white;
+  margin-bottom: 55%;
+}
+.cardSection {
+  background-color: #d7dde0;
+  padding: 0% 2%;
+}
+.card-number {
+  font-family: "poppins";
+  color: #54474e;
+  font-size: 30px;
+  font-weight: 600;
+  margin: 8% 10% 0%;
+}
+.card-title {
+  font-family: "poppins";
+  color: #54474e;
+  font-size: 30px;
+  font-weight: 600;
+}
+.card-text {
+  font-family: "poppins";
+  color: #54474e;
+  font-size: 15px;
+}
+.card {
+  background-color: #00acee;
+}
+.footer-section {
+  font-size: 30px;
+  font-family: "Silkscreen";
+  text-align: center;
+  padding-top: 3%;
+  margin: 4% 15%;
+}
+.contact {
+  text-align: center;
+  font-family: "poppins";
+  font-weight: 600;
+  color: #54474e;
+  font-size: 22px;
+  padding: 1% 7%;
+}
+footer {
+  margin: 5% 15%;
+}
+.contact-info {
+  padding: 10% 5%;
+  font-family: "poppins";
+  font-size: 15px;
+}
+.features-icon {
+  fill: #686758;
+  width: 32px;
+  height: 32px;
+  margin: 3% 15%;
+}
