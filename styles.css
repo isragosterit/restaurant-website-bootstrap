@@ -79,18 +79,10 @@ img {
 #carouselExampleDark {
   background-color: #000000;
 }
-.welcome {
+.slide-text {
   font-family: barlow;
-  font-size: 170%;
   color: white;
-  padding-bottom: 0%;
-}
-
-.slidetext {
-  font-family: barlow;
-  font-size: 350%;
-  color: white;
-  margin-bottom: 55%;
+  padding-bottom: 30%;
 }
 .cardSection {
   background-color: #d7dde0;
